@@ -1,5 +1,5 @@
 export default function Info() {
     return( 
-    <p> Sim Jaehyun's</p>
+    <h1> Sim Jaehyun's</h1>
     );
 }
